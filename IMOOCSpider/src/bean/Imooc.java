@@ -80,3 +80,5 @@ public class Imooc {
 		System.out.println(imooc);
 	}
 }
+
+# sample purpose
