@@ -35,7 +35,7 @@ jobs:
              node-version: ${{ matrix.node-version }}
              cache: 'npm'
              
-             # This is for sample purposes
+             # This is for sample purpose
         
       
       
